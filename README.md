@@ -7,6 +7,21 @@
   Gatsby Minimal Starter
 </h1>
 
+
+
+## 🚀 Challenges Faced and Solutions:
+
+a. Learning New TechStack Gatsby: The initial challenge was to familiarize oneself with Gatsby through its official documentation. Understanding the framework's file structure and concepts was crucial to proceed.
+
+b. Styled Components Implementation: Integrating styled components for styling posed a challenge, but it was overcome by breaking down the styling into modular components. This approach improved code organization and readability.
+
+c. Component Implementation: Creating individual components such as the navbar, body components, and footer required careful consideration of their functionality. Breaking down the page into smaller, manageable components aided in the development process.
+
+d. Placement and Layout Challenges: Placing elements precisely on the page sometimes presented challenges. However, through experimentation and fine-tuning, the optimal layout was achieved.
+
+e. CSS Knowledge enhanced : The assignment provided an opportunity to reinforce CSS knowledge, especially in terms of modern practices and responsive design.
+
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
@@ -47,3 +62,4 @@
 Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
 [<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
